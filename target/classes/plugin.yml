@@ -1,7 +1,0 @@
-name: CustomEnchantments
-main: Main
-version: 1
-commands:
-    enchant:
-      description: Enchants an item with a custom enchantment.
-      usage: /<command> <args>
