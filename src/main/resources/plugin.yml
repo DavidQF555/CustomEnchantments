@@ -3,6 +3,7 @@ main: io.github.davidqf555.minecraft.customenchantments.Main
 version: 1.0.0
 description: Adds Custom Enchantments
 author: DavidQF555
+website: https://github.com/DavidQF555/CustomEnchantments
 commands:
   enchant:
     description: Enchants an item with a custom enchantment.
